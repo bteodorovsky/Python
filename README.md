@@ -4,7 +4,7 @@
 ---
 ### Виконання роботи
 - Результати виконання завдання 1;
-![image](https://github.com/bteodorovsky/Python/assets/125216041/8a4d21b8-fcab-44fe-af92-42ce202e35fe
+![image](https://github.com/bteodorovsky/Python/assets/125216041/8a4d21b8-fcab-44fe-af92-42ce202e35fe)
 - Результати виконання завдання 2;
 ![image](https://github.com/bteodorovsky/Python/assets/125216041/9c6977f9-cc95-4c57-8996-e45bf5bea527)
 - Результати виконання завдання 3;
